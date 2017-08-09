@@ -8,7 +8,7 @@
 
 ### Getting Started with React
 1. `brew install yarn`
-2. `yarn add create-react-app`
+2. `yarn global add create-react-app`
 3. `create-react-app my-app`
 4. `cd my-app && yarn start`
 
