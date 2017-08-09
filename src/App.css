@@ -1,0 +1,47 @@
+body {
+  padding: 5px
+}
+
+#container {
+  font-family: "Roboto", sans-serif;
+}
+
+img.avatar {
+    display: inline-block;
+    float: left;
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+    vertical-align: top;
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: transparent;
+    box-shadow: 0 0 0 2px #CCCCCC;
+}
+
+span.name {
+    display: inline-block;
+    white-space: nowrap;
+    font-weight: 900;
+    font-size: 11px;
+}
+
+span.name em {
+    color: #a6a6a6;
+}
+
+.message-text {
+    color: #4D4D4D;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 300;
+}
+
+.message {
+    position: relative;
+    clear: both;
+    margin: 0 0 30px;
+    white-space: nowrap;
+    padding-left: 2px;
+}
